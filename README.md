@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This arya i'm currently working as a front-ennd developer in pixelsandcode.ge and i always looking to learn and challenge my self
+
+
+
 <!--
 **aryasadeghy/aryasadeghy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
