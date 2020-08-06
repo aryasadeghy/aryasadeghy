@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-This arya i'm currently working as a front-ennd developer in pixelsandcode.ge and i always looking to learn and challenge my self
-
-
+- 🔭 I’m currently working on Goki.travel
+- 🌱 I’m currently learning nodejs better
+- 👯 I’m looking to collaborate on Javascript Projects 
+- 💬 Ask me about Front-end and JS
+- 📫 How to reach me: aryasadeghy@gmail.com
 
 <!--
 **aryasadeghy/aryasadeghy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
