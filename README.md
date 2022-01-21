@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Goki.travel
-- 🌱 I’m currently learning nodejs better
+- 🌱 I’m currently focused on CS
 - 👯 I’m looking to collaborate on Javascript Projects 
 - 💬 Ask me about Front-end and JS
 - 📫 How to reach me: aryasadeghy@gmail.com
